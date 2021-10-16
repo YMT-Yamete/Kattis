@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\bin\Debug\netcoreapp3.1\3D Printed Statues.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\bin\Debug\netcoreapp3.1\3D Printed Statues.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\bin\Debug\netcoreapp3.1\3D Printed Statues.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\bin\Debug\netcoreapp3.1\3D Printed Statues.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\bin\Debug\netcoreapp3.1\3D Printed Statues.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\bin\Debug\netcoreapp3.1\3D Printed Statues.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\3D Printed Statues\obj\Debug\netcoreapp3.1\3D Printed Statues.genruntimeconfig.cache

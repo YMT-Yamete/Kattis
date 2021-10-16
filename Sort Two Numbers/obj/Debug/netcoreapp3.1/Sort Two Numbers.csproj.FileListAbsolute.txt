@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\bin\Debug\netcoreapp3.1\Sort Two Numbers.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\bin\Debug\netcoreapp3.1\Sort Two Numbers.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\bin\Debug\netcoreapp3.1\Sort Two Numbers.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\bin\Debug\netcoreapp3.1\Sort Two Numbers.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\bin\Debug\netcoreapp3.1\Sort Two Numbers.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\bin\Debug\netcoreapp3.1\Sort Two Numbers.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Sort Two Numbers\obj\Debug\netcoreapp3.1\Sort Two Numbers.genruntimeconfig.cache

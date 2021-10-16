@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\bin\Debug\netcoreapp3.1\A New Alphabet.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\bin\Debug\netcoreapp3.1\A New Alphabet.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\bin\Debug\netcoreapp3.1\A New Alphabet.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\bin\Debug\netcoreapp3.1\A New Alphabet.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\bin\Debug\netcoreapp3.1\A New Alphabet.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\bin\Debug\netcoreapp3.1\A New Alphabet.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\A New Alphabet\obj\Debug\netcoreapp3.1\A New Alphabet.genruntimeconfig.cache

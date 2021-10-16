@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\bin\Debug\netcoreapp3.1\ACM Contest Scoring.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\bin\Debug\netcoreapp3.1\ACM Contest Scoring.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\bin\Debug\netcoreapp3.1\ACM Contest Scoring.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\bin\Debug\netcoreapp3.1\ACM Contest Scoring.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\bin\Debug\netcoreapp3.1\ACM Contest Scoring.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\bin\Debug\netcoreapp3.1\ACM Contest Scoring.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\ACM Contest Scoring\obj\Debug\netcoreapp3.1\ACM Contest Scoring.genruntimeconfig.cache
