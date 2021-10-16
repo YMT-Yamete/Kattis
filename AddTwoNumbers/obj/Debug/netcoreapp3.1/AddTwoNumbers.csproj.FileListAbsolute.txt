@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\bin\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\AddTwoNumbers\obj\Debug\netcoreapp3.1\AddTwoNumbers.genruntimeconfig.cache
