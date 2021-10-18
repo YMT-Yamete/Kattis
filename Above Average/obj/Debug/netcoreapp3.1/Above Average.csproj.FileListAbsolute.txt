@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\bin\Debug\netcoreapp3.1\Above Average.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\bin\Debug\netcoreapp3.1\Above Average.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\bin\Debug\netcoreapp3.1\Above Average.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\bin\Debug\netcoreapp3.1\Above Average.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\bin\Debug\netcoreapp3.1\Above Average.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\bin\Debug\netcoreapp3.1\Above Average.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Above Average\obj\Debug\netcoreapp3.1\Above Average.genruntimeconfig.cache

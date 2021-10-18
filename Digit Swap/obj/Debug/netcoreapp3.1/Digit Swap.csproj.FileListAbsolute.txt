@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\bin\Debug\netcoreapp3.1\Digit Swap.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\bin\Debug\netcoreapp3.1\Digit Swap.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\bin\Debug\netcoreapp3.1\Digit Swap.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\bin\Debug\netcoreapp3.1\Digit Swap.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\bin\Debug\netcoreapp3.1\Digit Swap.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\bin\Debug\netcoreapp3.1\Digit Swap.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Digit Swap\obj\Debug\netcoreapp3.1\Digit Swap.genruntimeconfig.cache

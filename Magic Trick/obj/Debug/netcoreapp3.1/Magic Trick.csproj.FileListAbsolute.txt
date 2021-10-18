@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\bin\Debug\netcoreapp3.1\Magic Trick.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\bin\Debug\netcoreapp3.1\Magic Trick.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\bin\Debug\netcoreapp3.1\Magic Trick.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\bin\Debug\netcoreapp3.1\Magic Trick.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\bin\Debug\netcoreapp3.1\Magic Trick.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\bin\Debug\netcoreapp3.1\Magic Trick.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Magic Trick\obj\Debug\netcoreapp3.1\Magic Trick.genruntimeconfig.cache

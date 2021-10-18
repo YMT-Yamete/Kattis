@@ -1,0 +1,13 @@
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\bin\Debug\netcoreapp3.1\Oddities.exe
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\bin\Debug\netcoreapp3.1\Oddities.deps.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\bin\Debug\netcoreapp3.1\Oddities.runtimeconfig.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\bin\Debug\netcoreapp3.1\Oddities.runtimeconfig.dev.json
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\bin\Debug\netcoreapp3.1\Oddities.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\bin\Debug\netcoreapp3.1\Oddities.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.csprojAssemblyReference.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.AssemblyInfoInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.AssemblyInfo.cs
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.dll
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.pdb
+C:\Users\Yamete\Desktop\Yamete\Kattis\Oddities\obj\Debug\netcoreapp3.1\Oddities.genruntimeconfig.cache
